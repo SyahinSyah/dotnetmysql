@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LikomExercise", "LikomExercise\LikomExercise.csproj", "{67D98866-BF9D-44C8-BA55-E6F530154184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67D98866-BF9D-44C8-BA55-E6F530154184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D98866-BF9D-44C8-BA55-E6F530154184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D98866-BF9D-44C8-BA55-E6F530154184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D98866-BF9D-44C8-BA55-E6F530154184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B91756E7-4224-45C5-B91A-50F943B3A10D}
+	EndGlobalSection
+EndGlobal
